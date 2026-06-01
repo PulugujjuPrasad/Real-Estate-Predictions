@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+xgboost
+fastapi
+uvicorn
+joblib
+openpyxl
+ydata-profiling
+matplotlib
+seaborn
